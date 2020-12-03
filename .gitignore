@@ -1,0 +1,8 @@
+*.iml
+.idea
+.vs
+target
+logs
+out
+Debug
+x64
